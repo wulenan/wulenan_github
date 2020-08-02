@@ -8,7 +8,8 @@
 using std::cout;
 using std::endl;
 int main()
-{
+{       
+        int m=0;
 	string str("Hello World!!!!");
 	title out(str);
 	if(true)
