@@ -11,6 +11,7 @@ int main()
 {       
         int m=0;
         int develop=2;
+        int feature1=3
 	string str("Hello World!!!!");
 	title out(str);
 	if(true)
