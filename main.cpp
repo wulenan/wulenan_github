@@ -10,6 +10,7 @@ using std::endl;
 int main()
 {       
         int m=0;
+        int develop=2;
 	string str("Hello World!!!!");
 	title out(str);
 	if(true)
