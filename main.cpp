@@ -13,7 +13,9 @@ int main()
         int develop=2;
         int feature1=3;
         int m0803_4=0;
-        int m0803_5=0;
+        int m0803_5=1;
+        int pull=2;
+        int fetch=3;
 	string str("Hello World!!!!");
 	title out(str);
 	if(true)
