@@ -13,6 +13,7 @@ int main()
 			title t;
 	}
 	cout<<"ifÖ´ĞĞÍê³É"<<endl;
+        int maj=100;
 	return 0;
 }
 
