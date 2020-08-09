@@ -14,6 +14,6 @@ int main()
 	{
 			title t;
 	}
-	return 100;
+	return 0;
 }
 
