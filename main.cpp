@@ -6,6 +6,7 @@ using std::endl;
 int main()
 {
         int work_feature1=1;
+        int work_feature3=3;
         int develop=1;
 	string str("Hello World!!!!");
 	title out(str);
