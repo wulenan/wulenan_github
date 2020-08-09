@@ -10,7 +10,6 @@ int main()
         int work_feature3_2=101;
         int develop=102;
 	string str("Hello World!");
-	title out(str);
 	if(true)
 	{
 			title t;
