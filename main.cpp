@@ -7,6 +7,7 @@ int main()
 {
         int work_feature1=1;
         int work_feature3=3;
+        int work_feature3_2=3;
         int develop=1;
 	string str("Hello World!!!!");
 	title out(str);
@@ -14,7 +15,7 @@ int main()
 	{
 			title t;
 	}
-	cout<<"if执行完成"<<endl;
+	//cout<<"if执行完成"<<endl;
         int maj=100;
 	return 0;
 }
