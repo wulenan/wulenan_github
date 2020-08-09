@@ -8,7 +8,7 @@ int main()
         int work_feature1=99;
         int work_feature3=100;
         int work_feature3_2=101;
-        int develop=102;
+        int develop=10000000002;
 	string str("Hello World!");
 	if(true)
 	{
